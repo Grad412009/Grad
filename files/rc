@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/Grad412009/Grad/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}cfg/rclone.conf"
